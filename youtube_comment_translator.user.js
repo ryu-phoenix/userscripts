@@ -5,6 +5,7 @@
 // @description  Adds a translate button to YouTube comments using Google Translate API.
 // @author       You
 // @match        https://www.youtube.com/*
+// @updateURL    https://raw.githubusercontent.com/ryu-phoenix/userscripts/main/youtube_comment_translator.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
