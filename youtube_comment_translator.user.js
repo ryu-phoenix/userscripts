@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds a translate button to YouTube comments using Google Translate API.
-// @author       You
+// @author       ryu_phoenix (ported to userscript from https://github.com/toluschr/YouTube-Comment-Translate)
 // @match        https://www.youtube.com/*
 // @updateURL    https://raw.githubusercontent.com/ryu-phoenix/userscripts/main/youtube_comment_translator.user.js
 // @grant        none
